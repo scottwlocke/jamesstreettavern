@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "cSpell.words": [
+        "devcontainer",
+        "devontainer",
+        "Meslo"
+    ],
+    "azureAutomation.directory.basePath": "",
+    "editor.codeLensFontFamily": "MesloLGM Nerd Font",
+}
