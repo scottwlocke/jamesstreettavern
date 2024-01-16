@@ -1,2 +1,0 @@
-# jamesstreettavern
-James Street Tavern
