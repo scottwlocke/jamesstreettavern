@@ -8,4 +8,5 @@
     ],
     "azureAutomation.directory.basePath": "",
     "editor.codeLensFontFamily": "MesloLGM Nerd Font",
+    "docker.commands.attach": "${containerCommand} exec -it ${containerId} ${shellCommand}",
 }
