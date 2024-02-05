@@ -30,7 +30,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -76,12 +76,12 @@ params:
     Content: Welcome to JST
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+#    - name: x
+#      url: "https://x.com/"
+#    - name: stackoverflow
+#      url: "https://stackoverflow.com"
+#    - name: github
+#      url: "https://github.com/"
 
   analytics:
     google:
