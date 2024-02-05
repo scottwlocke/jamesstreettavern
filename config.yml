@@ -72,8 +72,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "James Street Tavern"
+    Content: Welcome to JST
 
   socialIcons:
     - name: x
