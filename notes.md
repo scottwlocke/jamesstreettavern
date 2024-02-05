@@ -45,3 +45,8 @@ https://search.google.com/local/reviews?placeid=ChIJTe7yGF3pNIgRhxH-kaIlDzg
 https://developers.google.com/my-business/content/review-data
 ```
 
+## Food Menu API's
+
+```html
+https://developers.google.com/my-business/content/update-food-menus
+```
