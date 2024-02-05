@@ -50,3 +50,7 @@ https://developers.google.com/my-business/content/review-data
 ```html
 https://developers.google.com/my-business/content/update-food-menus
 ```
+
+# Ensure Google and Bing Site Verification
+
+Ensure that Google and Bing Site Verification is enabled and working for the site.
